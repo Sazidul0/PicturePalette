@@ -11,9 +11,8 @@ Welcome to **Picture Palette**, an easy-to-use image management app built with F
 - **Scrolling Support:** Easy scrollability for better user experience.
 - **Mobile-First Approach:** Designed with mobile users in mind for a smooth experience.
 
-## 🎨 Demo
-![Demo GIF](https://github.com/Sazidul0/PicturePalette/PicturePaletteDemo.gif)
-PicturePaletteDemo.gif
+## 🎥 Demo
+![Demo GIF](https://github.com/Sazidul0/PicturePalette/blob/main/PicturePaletteDemo.gif)
 
 ---
 
